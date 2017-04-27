@@ -1,6 +1,6 @@
 # npmdoc-hashtable
 
-#### api documentation for  [hashtable (v2.0.2)](https://github.com/chad3814/node-hashtable#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-hashtable.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-hashtable) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-hashtable.svg)](https://travis-ci.org/npmdoc/node-npmdoc-hashtable)
+#### basic api documentation for  [hashtable (v2.0.2)](https://github.com/chad3814/node-hashtable#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-hashtable.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-hashtable) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-hashtable.svg)](https://travis-ci.org/npmdoc/node-npmdoc-hashtable)
 
 #### Native HashTable and ES6 compatible Map for Node.js
 
@@ -66,7 +66,8 @@
         "install": "node-gyp configure build",
         "test": "runtests test/hashtable.js test/keys.js"
     },
-    "version": "2.0.2"
+    "version": "2.0.2",
+    "bin": {}
 }
 ```
 
